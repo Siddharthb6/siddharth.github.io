@@ -1,10 +1,14 @@
 title: "Siddharth"
 name: "Siddharth"
 description: "Computational Materials Science Researcher"
+
 url: "https://siddharthb6.github.io"
-repository: "Siddharthb6/siddharth.github.io"
-email: "siddharth@cy.iitr.ac.in"
+baseurl: ""
+
+repository: "Siddharthb6/siddharthb6.github.io"
 github_username: "Siddharthb6"
+email: "siddharth@cy.iitr.ac.in"
+
 author:
-bio: "Computational chemist working on DFT, thermoelectrics, and low-dimensional materials."
-avatar: "/images/Email.png"
+  bio: "Computational chemist working on DFT, thermoelectrics, and low-dimensional materials."
+  avatar: "/images/profile.png"
