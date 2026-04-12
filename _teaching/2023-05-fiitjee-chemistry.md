@@ -1,11 +1,11 @@
 ---
-title: "Chemistry Instructor"
+title: "Chemistry Professional"
 collection: teaching
 type: "Coaching"
-permalink: /teaching/2024-chemistry-instructor
+permalink: /teaching/2023-fiitjee
 venue: "FIITJEE Limited"
-date: 2024-06-01
+date: 2023-05-01
 location: "India"
 ---
 
-Teaching chemistry to medical (NEET) and engineering (JEE) aspirants. Responsibilities include delivering conceptual lectures, designing problem sets, conducting doubt sessions, and mentoring students through competitive exam preparation.
+Worked as a Chemistry Professional at FIITJEE Limited (May 2023 – May 2024), one of India's leading coaching institutes for engineering entrance examinations. Delivered chemistry sessions for JEE aspirants covering physical, organic, and inorganic chemistry.
