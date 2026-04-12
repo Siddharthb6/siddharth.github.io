@@ -1,9 +1,9 @@
 ---
 title: "Chemistry Instructor"
 collection: teaching
-type: "Coaching"
+type: "Doubt Solver"
 permalink: /teaching/2024-chemistry-instructor
-venue: "Coaching Institute"
+venue: "Private"
 date: 2024-06-01
 location: "India"
 ---
