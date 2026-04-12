@@ -1,4 +1,3 @@
-
 ---
 title: "Workshop on Spintronics, Electronics and Communication Engineering"
 collection: talks
@@ -10,4 +9,3 @@ location: "Roorkee, India"
 ---
 
 Attended the Workshop on Spintronics, Electronics and Communication Engineering at IIT Roorkee, focusing on emerging topics in spintronic materials and device physics.
-
