@@ -1,14 +1,1 @@
-title: "Siddharth"
-name: "Siddharth"
-description: "Computational Materials Science Researcher"
-
-url: "https://siddharthb6.github.io"
-baseurl: ""
-
-repository: "Siddharthb6/siddharthb6.github.io"
-github_username: "Siddharthb6"
-email: "siddharthb610@gmail.com"
-
-author:
-  bio: "Computational chemist working on DFT, thermoelectrics, and low-dimensional materials."
   avatar: "/images/Email.png"
