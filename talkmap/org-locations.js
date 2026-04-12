@@ -5,6 +5,11 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "International Conference on Main Group Molecules to Materials<br />Indian Institute of Technology Roorkee; Roorkee, India",
+    29.8693496,
+    77.8902124
+  ],
+  [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
