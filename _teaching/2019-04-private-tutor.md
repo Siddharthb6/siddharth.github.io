@@ -1,5 +1,5 @@
 ---
-title: "Private Tutor — Physics, Chemistry and Mathematics"
+title: "Private Tutor: Physics, Chemistry and Mathematics"
 collection: teaching
 type: "Tutoring"
 permalink: /teaching/2019-private-tutor
