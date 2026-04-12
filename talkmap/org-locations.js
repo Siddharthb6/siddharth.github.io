@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Seminar on Advances in Polymer Nanocomposites<br />American Chemical Society (ACS); Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
@@ -8,11 +13,6 @@ var addressPoints = [
     "International Conference on Main Group Molecules to Materials<br />Indian Institute of Technology Roorkee; Roorkee, India",
     29.8693496,
     77.8902124
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
