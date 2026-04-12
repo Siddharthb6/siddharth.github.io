@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Master of Science (M.Sc.) in Chemistry**  
+Indian Institute of Technology Roorkee, India  
+Specialization: Physical and Computational Chemistry
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Bachelor of Science (B.Sc. Honours) in Chemistry**  
+University of Delhi, India  
+Focused on molecular chemistry, solid-state chemistry, and quantum mechanics.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **IISc Bangalore** — Computational Studies on Borane Clusters (Supervisor: Prof. E. D. Jemmis)
+* **IIT Roorkee (Master's Thesis)** — Thermoelectric Properties of Half-Heusler CoTiSb (Supervisor: Prof. H. Kandpal)
+* **Ashoka University** — DFT Investigation of Fe-Pincer Catalysts for Hydrogen Production (Supervisor: Prof. V. Avasare)
+* **IIT Delhi** — Low-Dimensional and Hybrid Materials Modelling (Supervisor: Prof. N. Ray)
+
+## Technical Skills
+
+* **Electronic Structure Methods:** DFT, ab-initio molecular dynamics, Boltzmann transport theory
+* **Software:** Gaussian, VASP, Quantum ESPRESSO, BoltzTraP2
+* **Programming:** Python (NumPy, SciPy, Matplotlib, TensorFlow), Jupyter Notebooks, shell scripting (HPC)
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Talks
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+## Teaching
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
