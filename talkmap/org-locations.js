@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Workshop on Spintronics, Electronics and Communication Engineering<br />Indian Institute of Technology Roorkee; Roorkee, India",
+    29.8693496,
+    77.8902124
+  ],
+  [
     "International Conference on Recent Trends in Drug Discovery and Development<br />University of Delhi; Delhi, India",
     28.6138954,
     77.2090057
