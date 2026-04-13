@@ -11,7 +11,7 @@ read_more                : "disabled"
 words_per_minute         : 160
 
 author:
-  name             : "Siddharth Birwal"
+  name             : "Siddharth"
   avatar           : "/images/profile.jpg"
   bio              : "Computational chemist working on DFT, thermoelectrics, and low-dimensional materials."
   location         : "India"
